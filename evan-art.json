@@ -9,7 +9,7 @@
      "items": [
       {
        "hideTitle": true,
-       "id": "DFD342B1-3A2C-427C-9C13-21C464CC01D8",
+       "id": "1720B168-78C6-458B-AF5F-2520103EA3DE",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1930s.webp",
        "title": "1930s",
@@ -118,7 +118,7 @@
       },
       {
        "hideTitle": true,
-       "id": "C9518D65-D37B-4833-81C6-069B0D3AE0BC",
+       "id": "DBA93825-B115-43E5-94A5-3D15F7541444",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1940s.webp",
        "title": "1940s",
@@ -227,7 +227,7 @@
       },
       {
        "hideTitle": true,
-       "id": "459B94A2-AFD0-4597-A7F3-A31305210D2F",
+       "id": "1997CE8E-C94E-4DC2-907B-A6A424FBF86D",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1950s.webp",
        "title": "1950s",
@@ -336,7 +336,7 @@
       },
       {
        "hideTitle": true,
-       "id": "DBCFB173-AF1A-41E7-BD4D-7C70B1AEBC65",
+       "id": "8FF54E24-3BAD-442D-B79C-1BB71B1AA9E9",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1960s.webp",
        "title": "1960s",
@@ -445,7 +445,7 @@
       },
       {
        "hideTitle": true,
-       "id": "CC4FBDFE-3368-45D7-AA10-F6C85A7BED67",
+       "id": "FE8557CC-DE80-4149-81FE-38C63BA4690F",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1970s.webp",
        "title": "1970s",
@@ -554,7 +554,7 @@
       },
       {
        "hideTitle": true,
-       "id": "236CD95F-3BC3-49C2-BD84-08505BFCD597",
+       "id": "C76EFB72-25C8-4BE5-A858-D8B4C63A4C3A",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1980s.webp",
        "title": "1980s",
@@ -663,7 +663,7 @@
       },
       {
        "hideTitle": true,
-       "id": "C1D22ED4-7755-4859-94A3-49A37200D1F6",
+       "id": "8EBBEFAA-5D1B-4DFD-A2F7-1174201402C9",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_1990s.webp",
        "title": "1990s",
@@ -772,7 +772,7 @@
       },
       {
        "hideTitle": true,
-       "id": "A431ED7D-201C-4B30-B184-89DD54301151",
+       "id": "81869387-A7E7-4076-9E03-311A2F93DDFF",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_2000s.webp",
        "title": "2000s",
@@ -881,7 +881,7 @@
       },
       {
        "hideTitle": true,
-       "id": "D5A3BC52-D6B2-4649-AE33-24310692C9FE",
+       "id": "6717EC63-23FA-4C25-A0FE-9693B9FF34DA",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_2010s.webp",
        "title": "2010s",
@@ -990,7 +990,7 @@
       },
       {
        "hideTitle": true,
-       "id": "69DC5EF2-AD9E-4CB6-8DED-8D9A5AF1AEBC",
+       "id": "0B68A6FB-1148-453E-B4B5-34321C9DAB73",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/decade_2020s.webp",
        "title": "2020s",
@@ -1100,7 +1100,7 @@
      ]
     }
    },
-   "id": "D6499DFF-B2B8-4F51-A207-EDCDEC65851B",
+   "id": "EB2037B0-96A1-4776-89DB-4DCC6790010F",
    "title": "Decades",
    "type": "collection.row"
   },
@@ -1111,7 +1111,7 @@
      "items": [
       {
        "hideTitle": true,
-       "id": "7AC7623D-9F1E-4B09-9622-B367A330492D",
+       "id": "7F7C9E77-B5BA-4ED9-8AC5-E8AE95BC6D90",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ACTION.webp",
        "title": "Action",
@@ -1218,7 +1218,7 @@
       },
       {
        "hideTitle": true,
-       "id": "93EC2C40-7037-46D0-9414-38840BA45757",
+       "id": "796F22AE-73DB-4FD8-8BFF-AB4F9E809313",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ADVENTURE.webp",
        "title": "Adventure",
@@ -1325,7 +1325,7 @@
       },
       {
        "hideTitle": true,
-       "id": "1ED11631-9686-4CFA-A155-05B7E4244D42",
+       "id": "B62016A2-E6B3-46B8-9EA0-36132B6B08E0",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ANIMATION.webp",
        "title": "Animation",
@@ -1432,7 +1432,7 @@
       },
       {
        "hideTitle": true,
-       "id": "50288F4A-D38B-4883-B6D1-7B51C2CC5AFA",
+       "id": "A3ECD843-AD39-44C3-9B76-3F34954196DF",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/COMEDY.webp",
        "title": "Comedy",
@@ -1539,7 +1539,7 @@
       },
       {
        "hideTitle": true,
-       "id": "90B71EE9-E08B-476A-92C6-FF4F9F77ABEC",
+       "id": "88818FCE-3C6E-4A58-B766-4821E887E483",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/CRIME.webp",
        "title": "Crime",
@@ -1646,7 +1646,7 @@
       },
       {
        "hideTitle": true,
-       "id": "36148985-3B16-4BF2-8AE2-64AA39CAAB40",
+       "id": "C168B651-4FD9-4144-95A6-5AE22A87F6B8",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/DOCUMENTARY.webp",
        "title": "Documentary",
@@ -1753,7 +1753,7 @@
       },
       {
        "hideTitle": true,
-       "id": "03BE6F65-9337-4644-A48E-8A3D3368483E",
+       "id": "5395E8DC-BAA2-4826-BDAC-885DAB179D99",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/DRAMA.webp",
        "title": "Drama",
@@ -1860,7 +1860,7 @@
       },
       {
        "hideTitle": true,
-       "id": "8018EE53-E9A4-4539-9743-F83A4BBF4EF7",
+       "id": "9228D9BA-780B-4B7E-B05F-E32F2330B742",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/FAMILYMOVIENIGHT.webp",
        "title": "Family",
@@ -1967,7 +1967,7 @@
       },
       {
        "hideTitle": true,
-       "id": "89E8284C-1B88-4BFB-8156-23D16BF86E8E",
+       "id": "CE38B3C4-C4D3-4591-8CE5-FA1A5683F8B4",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/FANTASY.webp",
        "title": "Fantasy",
@@ -2074,7 +2074,7 @@
       },
       {
        "hideTitle": true,
-       "id": "69813942-9E1B-4C82-9464-45BCDD16BA1B",
+       "id": "4B732F0D-E01D-410A-A30D-4CC2BDB6EFBC",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/HORROR.webp",
        "title": "Horror",
@@ -2132,7 +2132,7 @@
       },
       {
        "hideTitle": true,
-       "id": "2E87F1FB-4F93-4B33-81BC-1F1098E9C09A",
+       "id": "B5F200DD-B2EC-4586-97A9-C65672C45D12",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/genre_mystery.webp",
        "title": "Mystery",
@@ -2239,7 +2239,7 @@
       },
       {
        "hideTitle": true,
-       "id": "743F3C5C-100C-4BB6-9A24-697EF2E4829F",
+       "id": "4C3C04F3-3D94-4DC6-A02B-FE40B25A18CA",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ROMANCE.webp",
        "title": "Romance",
@@ -2297,7 +2297,7 @@
       },
       {
        "hideTitle": true,
-       "id": "6195A544-9FAB-462D-8A85-D49D624628EA",
+       "id": "CAC59927-82D7-47D0-9667-BD08BBC4FE83",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/SCIFI.webp",
        "title": "Sci-Fi",
@@ -2404,7 +2404,7 @@
       },
       {
        "hideTitle": true,
-       "id": "8729BF7C-4109-4865-A4C1-C6AC694EB141",
+       "id": "2547D8B0-3E72-4DAF-9C36-460D36CEA7C6",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ACTIONTHRILLERS.webp",
        "title": "Thriller",
@@ -2512,7 +2512,7 @@
      ]
     }
    },
-   "id": "94DB7726-272A-480A-992B-F92300049DFA",
+   "id": "02297A33-0822-40D6-BDCA-65ACEE0A5E78",
    "title": "Genres",
    "type": "collection.row"
   },
@@ -2523,7 +2523,7 @@
      "items": [
       {
        "hideTitle": true,
-       "id": "929B5FF7-D3EB-4EA1-A8F3-2D6EA679F2F6",
+       "id": "624977ED-B3A9-495D-8BE5-C3563BF3D781",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/netflix.webp",
        "title": "Netflix",
@@ -2654,7 +2654,7 @@
       },
       {
        "hideTitle": true,
-       "id": "019ECADA-7325-48ED-8B05-EEDA8D736395",
+       "id": "350D5AFF-211C-48F1-A4EA-B5508C0689DD",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/disney.webp",
        "title": "Disney+",
@@ -2785,7 +2785,7 @@
       },
       {
        "hideTitle": true,
-       "id": "3E4E08C4-80D0-4190-A58E-43A96674102B",
+       "id": "E24547CE-DDC0-4218-9646-548243A09730",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/hulu.webp",
        "title": "Hulu",
@@ -2916,7 +2916,7 @@
       },
       {
        "hideTitle": true,
-       "id": "A5BF96AF-7E3F-4093-98EC-A8D458116010",
+       "id": "13708EDD-A55A-4140-ABBA-8A1EF0E7FEE3",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/hbo.webp",
        "title": "Max",
@@ -3047,7 +3047,7 @@
       },
       {
        "hideTitle": true,
-       "id": "25D1B603-3A46-436D-B3F7-ED841BED07D9",
+       "id": "2CDDAC57-422D-4B9C-829C-92275FA653FD",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/apple.webp",
        "title": "Apple TV+",
@@ -3178,7 +3178,7 @@
       },
       {
        "hideTitle": true,
-       "id": "8C9E971C-26C1-45C2-9436-15F49F6A226F",
+       "id": "15273503-196D-4D15-AAF0-E0901B36DB8E",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/prime.webp",
        "title": "Prime Video",
@@ -3309,7 +3309,7 @@
       },
       {
        "hideTitle": true,
-       "id": "CE8C4A10-8146-4BDA-BD83-3AFA3E425599",
+       "id": "3DC4EA49-ABA1-4210-B9BB-323BB783E50D",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/paramount.webp",
        "title": "Paramount+",
@@ -3448,7 +3448,7 @@
       },
       {
        "hideTitle": true,
-       "id": "5E1DCB2C-80BF-449B-8A8F-241B5DB43049",
+       "id": "9746993E-B1F0-4B06-BD18-B08005DB9A82",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/peacock.webp",
        "title": "Peacock",
@@ -3587,7 +3587,7 @@
       },
       {
        "hideTitle": true,
-       "id": "970EBAFE-ACF4-406E-8236-FCA00DD7D2D9",
+       "id": "F3B1E9EC-F74C-40D2-9F20-0D473DC3F14D",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/streaming/crunchyroll.webp",
        "title": "Crunchyroll",
@@ -3719,7 +3719,7 @@
      ]
     }
    },
-   "id": "AA3D380F-EBC9-41C4-92B3-8F46484A4B4C",
+   "id": "B4279E66-6BB8-4391-9A3B-5C676F6BEDDA",
    "title": "Streaming Services",
    "type": "collection.row"
   },
@@ -3730,7 +3730,7 @@
      "items": [
       {
        "hideTitle": true,
-       "id": "446A6A62-4DED-493E-B8D3-4CF031F7025F",
+       "id": "9278D124-6A88-4050-8EA5-E452AE280FE8",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/merna.webp",
        "title": "Merna's Movies",
@@ -3791,7 +3791,7 @@
       },
       {
        "hideTitle": true,
-       "id": "AD1C7F20-692E-41E5-80DC-8E408F594962",
+       "id": "F91C64B9-A5BE-4FAB-AEF0-EF42BD1AC869",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/merna.webp",
        "title": "Gentle Shows",
@@ -3852,7 +3852,7 @@
      ]
     }
    },
-   "id": "85956B59-45F1-46E6-9565-1691853C2261",
+   "id": "D99D4ABC-5D5A-4E1B-B2E8-23FFF07C047F",
    "title": "Merna",
    "type": "collection.row"
   },
@@ -3863,7 +3863,7 @@
      "items": [
       {
        "hideTitle": true,
-       "id": "5B670C18-C4F9-4A6B-8ECF-D8FB8E5A270C",
+       "id": "2BFFAE57-6301-42DA-948F-0778E9B18ACE",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/adrienne.webp",
        "title": "Crime Series",
@@ -3923,7 +3923,7 @@
       },
       {
        "hideTitle": true,
-       "id": "50B108C0-76DE-4062-888C-DBF5A94E3866",
+       "id": "E0B6BB2B-F816-4813-9E94-A06CE83BB5B2",
        "imageAspect": "wide",
        "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/my/adrienne.webp",
        "title": "Mystery & Thriller Movies",
@@ -3984,8 +3984,185 @@
      ]
     }
    },
-   "id": "F4A2F6B5-FEBA-4222-9796-7FABB0263DCF",
+   "id": "A47E33C7-B10E-4F8B-9229-47644960C853",
    "title": "Adrienne",
+   "type": "collection.row"
+  },
+  {
+   "dataSource": {
+    "kind": "collection",
+    "payload": {
+     "items": [
+      {
+       "hideTitle": true,
+       "id": "EE02C7C4-45F2-4D18-8CA9-5F2261AC2148",
+       "imageAspect": "wide",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_adrienne.webp",
+       "title": "Adrienne Watchlist",
+       "dataSources": [
+        {
+         "kind": "addonCatalog",
+         "payload": {
+          "addonId": "YOUR_AIOMETADATA",
+          "catalogId": "all::publicmetadb.list.x9yep9t327770a9",
+          "type": "all",
+          "genre": "None",
+          "aiometadata": {
+           "version": 1,
+           "catalog": {
+            "id": "publicmetadb.list.x9yep9t327770a9",
+            "type": "all",
+            "name": "Adrienne Watchlist",
+            "source": "publicmetadb",
+            "enabled": true,
+            "showInHome": true,
+            "sort": "default",
+            "metadata": {
+             "isPublic": true
+            }
+           }
+          }
+         }
+        }
+       ]
+      },
+      {
+       "hideTitle": true,
+       "id": "7D0F04D2-7787-423E-8820-ED823D421B8F",
+       "imageAspect": "wide",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_merna.webp",
+       "title": "Merna Watchlist",
+       "dataSources": [
+        {
+         "kind": "addonCatalog",
+         "payload": {
+          "addonId": "YOUR_AIOMETADATA",
+          "catalogId": "all::publicmetadb.list.l4yq0rromx7og52",
+          "type": "all",
+          "genre": "None",
+          "aiometadata": {
+           "version": 1,
+           "catalog": {
+            "id": "publicmetadb.list.l4yq0rromx7og52",
+            "type": "all",
+            "name": "Merna Watchlist",
+            "source": "publicmetadb",
+            "enabled": true,
+            "showInHome": true,
+            "sort": "default",
+            "metadata": {
+             "isPublic": true
+            }
+           }
+          }
+         }
+        }
+       ]
+      },
+      {
+       "hideTitle": true,
+       "id": "A792F6F2-BBA4-4018-8733-695C530C5991",
+       "imageAspect": "wide",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_evan.webp",
+       "title": "Evan Watchlist",
+       "dataSources": [
+        {
+         "kind": "addonCatalog",
+         "payload": {
+          "addonId": "YOUR_AIOMETADATA",
+          "catalogId": "all::publicmetadb.list.jn9t2awih3hruzb",
+          "type": "all",
+          "genre": "None",
+          "aiometadata": {
+           "version": 1,
+           "catalog": {
+            "id": "publicmetadb.list.jn9t2awih3hruzb",
+            "type": "all",
+            "name": "Evan Watchlist",
+            "source": "publicmetadb",
+            "enabled": true,
+            "showInHome": true,
+            "sort": "default",
+            "metadata": {
+             "isPublic": false
+            }
+           }
+          }
+         }
+        }
+       ]
+      },
+      {
+       "hideTitle": true,
+       "id": "F7112B8C-EE6F-4B6B-A7A1-453FE58DF03D",
+       "imageAspect": "wide",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_bgardens.webp",
+       "title": "B Gardens Watchlist",
+       "dataSources": [
+        {
+         "kind": "addonCatalog",
+         "payload": {
+          "addonId": "YOUR_AIOMETADATA",
+          "catalogId": "all::publicmetadb.list.ajxlu613wi85bpr",
+          "type": "all",
+          "genre": "None",
+          "aiometadata": {
+           "version": 1,
+           "catalog": {
+            "id": "publicmetadb.list.ajxlu613wi85bpr",
+            "type": "all",
+            "name": "B Gardens Watchlist",
+            "source": "publicmetadb",
+            "enabled": true,
+            "showInHome": true,
+            "sort": "default",
+            "metadata": {
+             "isPublic": false
+            }
+           }
+          }
+         }
+        }
+       ]
+      },
+      {
+       "hideTitle": true,
+       "id": "9048A7E7-D297-4EA3-AE6D-B9269E322CB8",
+       "imageAspect": "wide",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_my.webp",
+       "title": "My Watchlist",
+       "dataSources": [
+        {
+         "kind": "addonCatalog",
+         "payload": {
+          "addonId": "YOUR_AIOMETADATA",
+          "catalogId": "all::publicmetadb.list.ztmgjgba0jtyx9b",
+          "type": "all",
+          "genre": "None",
+          "aiometadata": {
+           "version": 1,
+           "catalog": {
+            "id": "publicmetadb.list.ztmgjgba0jtyx9b",
+            "type": "all",
+            "name": "My Watchlist",
+            "source": "publicmetadb",
+            "enabled": true,
+            "showInHome": true,
+            "sort": "default",
+            "metadata": {
+             "isPublic": false
+            }
+           }
+          }
+         }
+        }
+       ]
+      }
+     ]
+    }
+   },
+   "id": "C4BE9AC3-C7C6-40C0-9F1D-B579FBAAC665",
+   "title": "Wishlists",
    "type": "collection.row"
   }
  ],
