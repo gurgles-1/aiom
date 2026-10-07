@@ -858,5 +858,95 @@
       "file": "s05e05.jpg",
       "source": "tvdb"
     }
+  ],
+  "match-of-the-day": [
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 30,
+      "name": "2 April 2025",
+      "file": "s61e30.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 31,
+      "name": "5 April 2025",
+      "file": "s61e31.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 32,
+      "name": "12 April 2025",
+      "file": "s61e32.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 33,
+      "name": "19 April 2025",
+      "file": "s61e33.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 34,
+      "name": "26 April 2025",
+      "file": "s61e34.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 35,
+      "name": "FA Cup Semi Final (1)",
+      "file": "s61e35.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 36,
+      "name": "FA Cup Semi Final (2)",
+      "file": "s61e36.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 37,
+      "name": "3 May 2025",
+      "file": "s61e37.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 38,
+      "name": "10 May 2025",
+      "file": "s61e38.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 39,
+      "name": "FA Cup Final Highlights",
+      "file": "s61e39.jpg",
+      "source": "bbc"
+    },
+    {
+      "tmdb_show_id": 224,
+      "season": 61,
+      "episode": 40,
+      "name": "25 May 2025",
+      "file": "s61e40.jpg",
+      "source": "bbc"
+    }
   ]
 }
