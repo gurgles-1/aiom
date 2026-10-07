@@ -1113,7 +1113,7 @@
        "hideTitle": true,
        "id": "7F7C9E77-B5BA-4ED9-8AC5-E8AE95BC6D90",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ACTION.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/ACTION.webp",
        "title": "Action",
        "dataSources": [
         {
@@ -1220,7 +1220,7 @@
        "hideTitle": true,
        "id": "796F22AE-73DB-4FD8-8BFF-AB4F9E809313",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ADVENTURE.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/ADVENTURE.webp",
        "title": "Adventure",
        "dataSources": [
         {
@@ -1327,7 +1327,7 @@
        "hideTitle": true,
        "id": "B62016A2-E6B3-46B8-9EA0-36132B6B08E0",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ANIMATION.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/ANIMATION.webp",
        "title": "Animation",
        "dataSources": [
         {
@@ -1434,7 +1434,7 @@
        "hideTitle": true,
        "id": "A3ECD843-AD39-44C3-9B76-3F34954196DF",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/COMEDY.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/COMEDY.webp",
        "title": "Comedy",
        "dataSources": [
         {
@@ -1541,7 +1541,7 @@
        "hideTitle": true,
        "id": "88818FCE-3C6E-4A58-B766-4821E887E483",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/CRIME.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/CRIME.webp",
        "title": "Crime",
        "dataSources": [
         {
@@ -1648,7 +1648,7 @@
        "hideTitle": true,
        "id": "C168B651-4FD9-4144-95A6-5AE22A87F6B8",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/DOCUMENTARY.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/DOCUMENTARY.webp",
        "title": "Documentary",
        "dataSources": [
         {
@@ -1755,7 +1755,7 @@
        "hideTitle": true,
        "id": "5395E8DC-BAA2-4826-BDAC-885DAB179D99",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/DRAMA.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/DRAMA.webp",
        "title": "Drama",
        "dataSources": [
         {
@@ -1862,7 +1862,7 @@
        "hideTitle": true,
        "id": "9228D9BA-780B-4B7E-B05F-E32F2330B742",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/FAMILYMOVIENIGHT.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/FAMILYMOVIENIGHT.webp",
        "title": "Family",
        "dataSources": [
         {
@@ -1969,7 +1969,7 @@
        "hideTitle": true,
        "id": "CE38B3C4-C4D3-4591-8CE5-FA1A5683F8B4",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/FANTASY.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/FANTASY.webp",
        "title": "Fantasy",
        "dataSources": [
         {
@@ -2076,7 +2076,7 @@
        "hideTitle": true,
        "id": "4B732F0D-E01D-410A-A30D-4CC2BDB6EFBC",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/HORROR.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/HORROR.webp",
        "title": "Horror",
        "dataSources": [
         {
@@ -2241,7 +2241,7 @@
        "hideTitle": true,
        "id": "4C3C04F3-3D94-4DC6-A02B-FE40B25A18CA",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ROMANCE.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/ROMANCE.webp",
        "title": "Romance",
        "dataSources": [
         {
@@ -2299,7 +2299,7 @@
        "hideTitle": true,
        "id": "CAC59927-82D7-47D0-9667-BD08BBC4FE83",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/SCIFI.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/SCIFI.webp",
        "title": "Sci-Fi",
        "dataSources": [
         {
@@ -2406,7 +2406,7 @@
        "hideTitle": true,
        "id": "2547D8B0-3E72-4DAF-9C36-460D36CEA7C6",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/evan/ACTIONTHRILLERS.webp",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/cinematic/ACTIONTHRILLERS.webp",
        "title": "Thriller",
        "dataSources": [
         {
@@ -4063,8 +4063,8 @@
        "hideTitle": true,
        "id": "A792F6F2-BBA4-4018-8733-695C530C5991",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_evan.webp",
-       "title": "Evan Watchlist",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_personal.webp",
+       "title": "Personal Watchlist",
        "dataSources": [
         {
          "kind": "addonCatalog",
@@ -4078,7 +4078,7 @@
            "catalog": {
             "id": "publicmetadb.list.jn9t2awih3hruzb",
             "type": "all",
-            "name": "Evan Watchlist",
+            "name": "Personal Watchlist",
             "source": "publicmetadb",
             "enabled": true,
             "showInHome": true,

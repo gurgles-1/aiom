@@ -4063,8 +4063,8 @@
        "hideTitle": true,
        "id": "65223901-3F2B-40F7-A848-5F1E3ADD4392",
        "imageAspect": "wide",
-       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_evan.webp",
-       "title": "Evan Watchlist",
+       "imageURL": "https://raw.githubusercontent.com/gurgles-1/aiom-collections/main/covers/minimal/wishlist_personal.webp",
+       "title": "Personal Watchlist",
        "dataSources": [
         {
          "kind": "addonCatalog",
@@ -4078,7 +4078,7 @@
            "catalog": {
             "id": "publicmetadb.list.jn9t2awih3hruzb",
             "type": "all",
-            "name": "Evan Watchlist",
+            "name": "Personal Watchlist",
             "source": "publicmetadb",
             "enabled": true,
             "showInHome": true,
