@@ -2,6 +2,8 @@
 
 Collection artwork for [AIOMetadata](https://github.com/cedya77/aiometadata) catalogs and Vio collections.
 
+> **New to AIOMetadata?** Start at https://github.com/cedya77/aiometadata
+
 ## Layout
 
 | Folder | What's in it |
@@ -24,7 +26,7 @@ Collection artwork for [AIOMetadata](https://github.com/cedya77/aiometadata) cat
 
 1. Find the image you want in the folders above
 2. Copy its raw URL: `https://raw.githubusercontent.com/gurgles-1/aiom/main/<folder>/<file>`
-3. In AIOMetadata, open your collection/catalog settings
+3. In AIOMetadata ([cedya77/aiometadata](https://github.com/cedya77/aiometadata)), open your collection/catalog settings
 4. Paste the URL into the **poster** or **backdrop** field
 5. Save — AIOMetadata will cache and serve the image
 
