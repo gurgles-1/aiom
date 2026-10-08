@@ -1,279 +1,43 @@
 # AIOM image assets
 
-Image assets for use with AIOMetadata and Vio.
+Collection artwork for [AIOMetadata](https://github.com/cedya77/aiometadata) catalogs and Vio collections.
 
-## Direct image links
+## Layout
 
-| Image | URL |
-| --- | --- |
-| betterer-adrienne-watchlist-landscape | [betterer-adrienne-watchlist-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-adrienne-watchlist-landscape.png) |
-| betterer-adrienne-watchlist-poster | [betterer-adrienne-watchlist-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-adrienne-watchlist-poster.png) |
-| betterer-b-gardens-watchlist-landscape | [betterer-b-gardens-watchlist-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-b-gardens-watchlist-landscape.png) |
-| betterer-b-gardens-watchlist-poster | [betterer-b-gardens-watchlist-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-b-gardens-watchlist-poster.png) |
-| betterer-evan-watchlist-landscape | [betterer-evan-watchlist-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-evan-watchlist-landscape.png) |
-| betterer-evan-watchlist-poster | [betterer-evan-watchlist-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-evan-watchlist-poster.png) |
-| betterer-hallmark-landscape | [betterer-hallmark-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hallmark-landscape.png) |
-| betterer-hallmark-movies-landscape | [betterer-hallmark-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hallmark-movies-landscape.png) |
-| betterer-hallmark-movies-poster | [betterer-hallmark-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hallmark-movies-poster.png) |
-| betterer-hallmark-poster | [betterer-hallmark-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hallmark-poster.png) |
-| betterer-hallmark-series-landscape | [betterer-hallmark-series-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hallmark-series-landscape.png) |
-| betterer-hallmark-series-poster | [betterer-hallmark-series-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hallmark-series-poster.png) |
-| betterer-hgtv-landscape | [betterer-hgtv-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hgtv-landscape.png) |
-| betterer-hgtv-poster | [betterer-hgtv-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-hgtv-poster.png) |
-| betterer-logo-magnolia-logo | [betterer-logo-magnolia-logo.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-logo-magnolia-logo.png) |
-| betterer-louis-theroux-documentaries-landscape | [betterer-louis-theroux-documentaries-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-louis-theroux-documentaries-landscape.png) |
-| betterer-louis-theroux-documentaries-poster | [betterer-louis-theroux-documentaries-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-louis-theroux-documentaries-poster.png) |
-| betterer-lumieredb-popular-movies-landscape | [betterer-lumieredb-popular-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-popular-movies-landscape.png) |
-| betterer-lumieredb-popular-movies-poster | [betterer-lumieredb-popular-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-popular-movies-poster.png) |
-| betterer-lumieredb-popular-series-landscape | [betterer-lumieredb-popular-series-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-popular-series-landscape.png) |
-| betterer-lumieredb-popular-series-poster | [betterer-lumieredb-popular-series-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-popular-series-poster.png) |
-| betterer-lumieredb-trending-movies-landscape | [betterer-lumieredb-trending-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-trending-movies-landscape.png) |
-| betterer-lumieredb-trending-movies-poster | [betterer-lumieredb-trending-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-trending-movies-poster.png) |
-| betterer-lumieredb-trending-series-landscape | [betterer-lumieredb-trending-series-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-trending-series-landscape.png) |
-| betterer-lumieredb-trending-series-poster | [betterer-lumieredb-trending-series-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-lumieredb-trending-series-poster.png) |
-| betterer-magnolia-network-landscape | [betterer-magnolia-network-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-magnolia-network-landscape.png) |
-| betterer-magnolia-network-poster | [betterer-magnolia-network-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-magnolia-network-poster.png) |
-| betterer-merna-watchlist-landscape | [betterer-merna-watchlist-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-merna-watchlist-landscape.png) |
-| betterer-merna-watchlist-poster | [betterer-merna-watchlist-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-merna-watchlist-poster.png) |
-| betterer-my-watchlist-landscape | [betterer-my-watchlist-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-my-watchlist-landscape.png) |
-| betterer-my-watchlist-poster | [betterer-my-watchlist-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-my-watchlist-poster.png) |
-| betterer-pbs-kids-landscape | [betterer-pbs-kids-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-pbs-kids-landscape.png) |
-| betterer-pbs-kids-poster | [betterer-pbs-kids-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-pbs-kids-poster.png) |
-| betterer-pbs-landscape | [betterer-pbs-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-pbs-landscape.png) |
-| betterer-pbs-poster | [betterer-pbs-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-pbs-poster.png) |
-| betterer-popular-romance-movies-landscape | [betterer-popular-romance-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-romance-movies-landscape.png) |
-| betterer-popular-romance-movies-poster | [betterer-popular-romance-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-romance-movies-poster.png) |
-| betterer-popular-romance-shows-landscape | [betterer-popular-romance-shows-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-romance-shows-landscape.png) |
-| betterer-popular-romance-shows-poster | [betterer-popular-romance-shows-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-romance-shows-poster.png) |
-| betterer-popular-sci-fi-movies-landscape | [betterer-popular-sci-fi-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-sci-fi-movies-landscape.png) |
-| betterer-popular-sci-fi-movies-poster | [betterer-popular-sci-fi-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-sci-fi-movies-poster.png) |
-| betterer-popular-sci-fi-shows-landscape | [betterer-popular-sci-fi-shows-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-sci-fi-shows-landscape.png) |
-| betterer-popular-sci-fi-shows-poster | [betterer-popular-sci-fi-shows-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-sci-fi-shows-poster.png) |
-| betterer-popular-thriller-movies-landscape | [betterer-popular-thriller-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-thriller-movies-landscape.png) |
-| betterer-popular-thriller-movies-poster | [betterer-popular-thriller-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-popular-thriller-movies-poster.png) |
-| betterer-publicmetadb-up-next-landscape | [betterer-publicmetadb-up-next-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-publicmetadb-up-next-landscape.png) |
-| betterer-publicmetadb-up-next-poster | [betterer-publicmetadb-up-next-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-publicmetadb-up-next-poster.png) |
-| betterer-trending-kids-movies-landscape | [betterer-trending-kids-movies-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-trending-kids-movies-landscape.png) |
-| betterer-trending-kids-movies-poster | [betterer-trending-kids-movies-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-trending-kids-movies-poster.png) |
-| betterer-tvmaze-daily-schedule-landscape | [betterer-tvmaze-daily-schedule-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-tvmaze-daily-schedule-landscape.png) |
-| betterer-tvmaze-daily-schedule-poster | [betterer-tvmaze-daily-schedule-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/betterer-tvmaze-daily-schedule-poster.png) |
-| cinematic-ACTION | [cinematic-ACTION.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-ACTION.webp) |
-| cinematic-ACTIONTHRILLERS | [cinematic-ACTIONTHRILLERS.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-ACTIONTHRILLERS.webp) |
-| cinematic-ADVENTURE | [cinematic-ADVENTURE.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-ADVENTURE.webp) |
-| cinematic-ANIMATION | [cinematic-ANIMATION.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-ANIMATION.webp) |
-| cinematic-COMEDY | [cinematic-COMEDY.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-COMEDY.webp) |
-| cinematic-CRIME | [cinematic-CRIME.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-CRIME.webp) |
-| cinematic-DOCUMENTARY | [cinematic-DOCUMENTARY.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-DOCUMENTARY.webp) |
-| cinematic-DRAMA | [cinematic-DRAMA.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-DRAMA.webp) |
-| cinematic-FAMILYMOVIENIGHT | [cinematic-FAMILYMOVIENIGHT.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-FAMILYMOVIENIGHT.webp) |
-| cinematic-FANTASY | [cinematic-FANTASY.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-FANTASY.webp) |
-| cinematic-HORROR | [cinematic-HORROR.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-HORROR.webp) |
-| cinematic-ROMANCE | [cinematic-ROMANCE.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-ROMANCE.webp) |
-| cinematic-SCIFI | [cinematic-SCIFI.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/cinematic-SCIFI.webp) |
-| franchise-dc-universe | [franchise-dc-universe.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-dc-universe.png) |
-| franchise-harry-potter | [franchise-harry-potter.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-harry-potter.png) |
-| franchise-james-bond | [franchise-james-bond.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-james-bond.png) |
-| franchise-marvel-universe | [franchise-marvel-universe.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-marvel-universe.png) |
-| franchise-mission-impossible | [franchise-mission-impossible.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-mission-impossible.png) |
-| franchise-pixar-movie-collection | [franchise-pixar-movie-collection.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-pixar-movie-collection.png) |
-| franchise-star-wars | [franchise-star-wars.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchise-star-wars.png) |
-| franchises-alien-landscape | [franchises-alien-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-alien-landscape.png) |
-| franchises-alien-poster | [franchises-alien-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-alien-poster.png) |
-| franchises-avatar-landscape | [franchises-avatar-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-avatar-landscape.png) |
-| franchises-avatar-poster | [franchises-avatar-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-avatar-poster.png) |
-| franchises-back-to-the-future-landscape | [franchises-back-to-the-future-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-back-to-the-future-landscape.png) |
-| franchises-back-to-the-future-poster | [franchises-back-to-the-future-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-back-to-the-future-poster.png) |
-| franchises-dc-landscape | [franchises-dc-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-dc-landscape.png) |
-| franchises-dc-poster | [franchises-dc-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-dc-poster.png) |
-| franchises-fast-furious-landscape | [franchises-fast-furious-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-fast-furious-landscape.png) |
-| franchises-fast-furious-poster | [franchises-fast-furious-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-fast-furious-poster.png) |
-| franchises-ghostbusters-landscape | [franchises-ghostbusters-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-ghostbusters-landscape.png) |
-| franchises-ghostbusters-poster | [franchises-ghostbusters-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-ghostbusters-poster.png) |
-| franchises-indiana-jones-landscape | [franchises-indiana-jones-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-indiana-jones-landscape.png) |
-| franchises-indiana-jones-poster | [franchises-indiana-jones-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-indiana-jones-poster.png) |
-| franchises-james-bond-landscape | [franchises-james-bond-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-james-bond-landscape.png) |
-| franchises-james-bond-poster | [franchises-james-bond-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-james-bond-poster.png) |
-| franchises-john-wick-landscape | [franchises-john-wick-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-john-wick-landscape.png) |
-| franchises-john-wick-poster | [franchises-john-wick-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-john-wick-poster.png) |
-| franchises-jurassic-park-landscape | [franchises-jurassic-park-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-jurassic-park-landscape.png) |
-| franchises-jurassic-park-poster | [franchises-jurassic-park-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-jurassic-park-poster.png) |
-| franchises-lord-of-the-rings-landscape | [franchises-lord-of-the-rings-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-lord-of-the-rings-landscape.png) |
-| franchises-lord-of-the-rings-poster | [franchises-lord-of-the-rings-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-lord-of-the-rings-poster.png) |
-| franchises-marvel-mcu-landscape | [franchises-marvel-mcu-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-marvel-mcu-landscape.png) |
-| franchises-marvel-mcu-poster | [franchises-marvel-mcu-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-marvel-mcu-poster.png) |
-| franchises-mission-impossible-landscape | [franchises-mission-impossible-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-mission-impossible-landscape.png) |
-| franchises-mission-impossible-poster | [franchises-mission-impossible-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-mission-impossible-poster.png) |
-| franchises-pirates-caribbean-landscape | [franchises-pirates-caribbean-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-pirates-caribbean-landscape.png) |
-| franchises-pirates-caribbean-poster | [franchises-pirates-caribbean-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-pirates-caribbean-poster.png) |
-| franchises-pixar-landscape | [franchises-pixar-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-pixar-landscape.png) |
-| franchises-pixar-poster | [franchises-pixar-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-pixar-poster.png) |
-| franchises-predator-landscape | [franchises-predator-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-predator-landscape.png) |
-| franchises-predator-poster | [franchises-predator-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-predator-poster.png) |
-| franchises-star-trek-landscape | [franchises-star-trek-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-star-trek-landscape.png) |
-| franchises-star-trek-poster | [franchises-star-trek-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-star-trek-poster.png) |
-| franchises-star-wars-landscape | [franchises-star-wars-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-star-wars-landscape.png) |
-| franchises-star-wars-poster | [franchises-star-wars-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-star-wars-poster.png) |
-| franchises-terminator-landscape | [franchises-terminator-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-terminator-landscape.png) |
-| franchises-terminator-poster | [franchises-terminator-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-terminator-poster.png) |
-| franchises-toy-story-landscape | [franchises-toy-story-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-toy-story-landscape.png) |
-| franchises-toy-story-poster | [franchises-toy-story-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-toy-story-poster.png) |
-| franchises-wizarding-world-landscape | [franchises-wizarding-world-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-wizarding-world-landscape.png) |
-| franchises-wizarding-world-poster | [franchises-wizarding-world-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/franchises-wizarding-world-poster.png) |
-| genre-action-adventure-movies | [genre-action-adventure-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-action-adventure-movies.png) |
-| genre-animated-movies | [genre-animated-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-animated-movies.png) |
-| genre-based-on-a-true-story-movies | [genre-based-on-a-true-story-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-based-on-a-true-story-movies.png) |
-| genre-biography-movies | [genre-biography-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-biography-movies.png) |
-| genre-comedy | [genre-comedy.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-comedy.png) |
-| genre-crime-movies | [genre-crime-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-crime-movies.png) |
-| genre-documentary-movies | [genre-documentary-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-documentary-movies.png) |
-| genre-drama-movies | [genre-drama-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-drama-movies.png) |
-| genre-family-movies | [genre-family-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-family-movies.png) |
-| genre-fantasy-movies | [genre-fantasy-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-fantasy-movies.png) |
-| genre-horror | [genre-horror.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-horror.png) |
-| genre-music-movies | [genre-music-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-music-movies.png) |
-| genre-mystery-movies | [genre-mystery-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-mystery-movies.png) |
-| genre-popular-1970s-movies | [genre-popular-1970s-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-1970s-movies.png) |
-| genre-popular-1980s-movies | [genre-popular-1980s-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-1980s-movies.png) |
-| genre-popular-1990s-movies | [genre-popular-1990s-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-1990s-movies.png) |
-| genre-popular-2000s-movies | [genre-popular-2000s-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-2000s-movies.png) |
-| genre-popular-2010s-movies | [genre-popular-2010s-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-2010s-movies.png) |
-| genre-popular-2020s-movies | [genre-popular-2020s-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-2020s-movies.png) |
-| genre-popular-2025-movies | [genre-popular-2025-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-popular-2025-movies.png) |
-| genre-reality-tv-shows | [genre-reality-tv-shows.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-reality-tv-shows.png) |
-| genre-romance-movies | [genre-romance-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-romance-movies.png) |
-| genre-sci-fi | [genre-sci-fi.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-sci-fi.png) |
-| genre-superhero-movies | [genre-superhero-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-superhero-movies.png) |
-| genre-thriller | [genre-thriller.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-thriller.png) |
-| genre-top-250-movies-imdb | [genre-top-250-movies-imdb.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-top-250-movies-imdb.png) |
-| genre-top-250-shows-imdb | [genre-top-250-shows-imdb.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-top-250-shows-imdb.png) |
-| genre-top-musicals | [genre-top-musicals.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-top-musicals.png) |
-| genre-war-movies | [genre-war-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-war-movies.png) |
-| genre-western-movies | [genre-western-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/genre-western-movies.png) |
-| minimal-adrienne_movies | [minimal-adrienne_movies.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-adrienne_movies.webp) |
-| minimal-adrienne_series | [minimal-adrienne_series.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-adrienne_series.webp) |
-| minimal-decade_1930s | [minimal-decade_1930s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1930s.webp) |
-| minimal-decade_1940s | [minimal-decade_1940s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1940s.webp) |
-| minimal-decade_1950s | [minimal-decade_1950s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1950s.webp) |
-| minimal-decade_1960s | [minimal-decade_1960s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1960s.webp) |
-| minimal-decade_1970s | [minimal-decade_1970s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1970s.webp) |
-| minimal-decade_1980s | [minimal-decade_1980s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1980s.webp) |
-| minimal-decade_1990s | [minimal-decade_1990s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_1990s.webp) |
-| minimal-decade_2000s | [minimal-decade_2000s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_2000s.webp) |
-| minimal-decade_2010s | [minimal-decade_2010s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_2010s.webp) |
-| minimal-decade_2020s | [minimal-decade_2020s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-decade_2020s.webp) |
-| minimal-genre_action | [minimal-genre_action.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_action.webp) |
-| minimal-genre_adventure | [minimal-genre_adventure.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_adventure.webp) |
-| minimal-genre_animation | [minimal-genre_animation.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_animation.webp) |
-| minimal-genre_comedy | [minimal-genre_comedy.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_comedy.webp) |
-| minimal-genre_crime | [minimal-genre_crime.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_crime.webp) |
-| minimal-genre_documentary | [minimal-genre_documentary.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_documentary.webp) |
-| minimal-genre_drama | [minimal-genre_drama.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_drama.webp) |
-| minimal-genre_family | [minimal-genre_family.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_family.webp) |
-| minimal-genre_fantasy | [minimal-genre_fantasy.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_fantasy.webp) |
-| minimal-genre_horror | [minimal-genre_horror.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_horror.webp) |
-| minimal-genre_mystery | [minimal-genre_mystery.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_mystery.webp) |
-| minimal-genre_romance | [minimal-genre_romance.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_romance.webp) |
-| minimal-genre_scifi | [minimal-genre_scifi.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_scifi.webp) |
-| minimal-genre_thriller | [minimal-genre_thriller.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-genre_thriller.webp) |
-| minimal-merna_movies | [minimal-merna_movies.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-merna_movies.webp) |
-| minimal-merna_shows | [minimal-merna_shows.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-merna_shows.webp) |
-| minimal-streaming_appletv | [minimal-streaming_appletv.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_appletv.webp) |
-| minimal-streaming_crunchyroll | [minimal-streaming_crunchyroll.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_crunchyroll.webp) |
-| minimal-streaming_disney | [minimal-streaming_disney.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_disney.webp) |
-| minimal-streaming_hulu | [minimal-streaming_hulu.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_hulu.webp) |
-| minimal-streaming_max | [minimal-streaming_max.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_max.webp) |
-| minimal-streaming_netflix | [minimal-streaming_netflix.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_netflix.webp) |
-| minimal-streaming_paramount | [minimal-streaming_paramount.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_paramount.webp) |
-| minimal-streaming_peacock | [minimal-streaming_peacock.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_peacock.webp) |
-| minimal-streaming_prime | [minimal-streaming_prime.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-streaming_prime.webp) |
-| minimal-wishlist_adrienne | [minimal-wishlist_adrienne.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-wishlist_adrienne.webp) |
-| minimal-wishlist_bgardens | [minimal-wishlist_bgardens.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-wishlist_bgardens.webp) |
-| minimal-wishlist_merna | [minimal-wishlist_merna.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-wishlist_merna.webp) |
-| minimal-wishlist_my | [minimal-wishlist_my.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-wishlist_my.webp) |
-| minimal-wishlist_personal | [minimal-wishlist_personal.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/minimal-wishlist_personal.webp) |
-| my-adrienne | [my-adrienne.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-adrienne.webp) |
-| my-decade_1930s | [my-decade_1930s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1930s.webp) |
-| my-decade_1940s | [my-decade_1940s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1940s.webp) |
-| my-decade_1950s | [my-decade_1950s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1950s.webp) |
-| my-decade_1960s | [my-decade_1960s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1960s.webp) |
-| my-decade_1970s | [my-decade_1970s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1970s.webp) |
-| my-decade_1980s | [my-decade_1980s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1980s.webp) |
-| my-decade_1990s | [my-decade_1990s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_1990s.webp) |
-| my-decade_2000s | [my-decade_2000s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_2000s.webp) |
-| my-decade_2010s | [my-decade_2010s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_2010s.webp) |
-| my-decade_2020s | [my-decade_2020s.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-decade_2020s.webp) |
-| my-genre_action | [my-genre_action.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_action.webp) |
-| my-genre_adventure | [my-genre_adventure.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_adventure.webp) |
-| my-genre_animation | [my-genre_animation.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_animation.webp) |
-| my-genre_comedy | [my-genre_comedy.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_comedy.webp) |
-| my-genre_crime | [my-genre_crime.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_crime.webp) |
-| my-genre_documentary | [my-genre_documentary.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_documentary.webp) |
-| my-genre_drama | [my-genre_drama.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_drama.webp) |
-| my-genre_family | [my-genre_family.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_family.webp) |
-| my-genre_fantasy | [my-genre_fantasy.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_fantasy.webp) |
-| my-genre_horror | [my-genre_horror.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_horror.webp) |
-| my-genre_mystery | [my-genre_mystery.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_mystery.webp) |
-| my-genre_romance | [my-genre_romance.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_romance.webp) |
-| my-genre_scifi | [my-genre_scifi.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_scifi.webp) |
-| my-genre_thriller | [my-genre_thriller.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-genre_thriller.webp) |
-| my-merna | [my-merna.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/my-merna.webp) |
-| streaming-apple-tv-plus-landscape | [streaming-apple-tv-plus-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-apple-tv-plus-landscape.png) |
-| streaming-apple-tv-plus-poster | [streaming-apple-tv-plus-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-apple-tv-plus-poster.png) |
-| streaming-apple | [streaming-apple.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-apple.webp) |
-| streaming-crunchyroll-landscape | [streaming-crunchyroll-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-crunchyroll-landscape.png) |
-| streaming-crunchyroll-poster | [streaming-crunchyroll-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-crunchyroll-poster.png) |
-| streaming-crunchyroll | [streaming-crunchyroll.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-crunchyroll.webp) |
-| streaming-disney-plus-landscape | [streaming-disney-plus-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-disney-plus-landscape.png) |
-| streaming-disney-plus-poster | [streaming-disney-plus-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-disney-plus-poster.png) |
-| streaming-disney | [streaming-disney.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-disney.webp) |
-| streaming-hbo-max-landscape | [streaming-hbo-max-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-hbo-max-landscape.png) |
-| streaming-hbo-max-poster | [streaming-hbo-max-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-hbo-max-poster.png) |
-| streaming-hbo | [streaming-hbo.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-hbo.webp) |
-| streaming-hulu-landscape | [streaming-hulu-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-hulu-landscape.png) |
-| streaming-hulu-poster | [streaming-hulu-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-hulu-poster.png) |
-| streaming-hulu | [streaming-hulu.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-hulu.webp) |
-| streaming-netflix-landscape | [streaming-netflix-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-netflix-landscape.png) |
-| streaming-netflix-poster | [streaming-netflix-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-netflix-poster.png) |
-| streaming-netflix | [streaming-netflix.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-netflix.webp) |
-| streaming-paramount-plus-landscape | [streaming-paramount-plus-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-paramount-plus-landscape.png) |
-| streaming-paramount-plus-poster | [streaming-paramount-plus-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-paramount-plus-poster.png) |
-| streaming-paramount | [streaming-paramount.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-paramount.webp) |
-| streaming-peacock-landscape | [streaming-peacock-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-peacock-landscape.png) |
-| streaming-peacock-poster | [streaming-peacock-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-peacock-poster.png) |
-| streaming-peacock | [streaming-peacock.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-peacock.webp) |
-| streaming-prime-video-landscape | [streaming-prime-video-landscape.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-prime-video-landscape.png) |
-| streaming-prime-video-poster | [streaming-prime-video-poster.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-prime-video-poster.png) |
-| streaming-prime | [streaming-prime.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-prime.webp) |
-| streaming-weekend | [streaming-weekend.webp](https://raw.githubusercontent.com/gurgles-1/aiom/main/streaming-weekend.webp) |
-| studio-20th-century-fox | [studio-20th-century-fox.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-20th-century-fox.png) |
-| studio-a-e | [studio-a-e.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-a-e.png) |
-| studio-abc | [studio-abc.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-abc.png) |
-| studio-amazon-prime | [studio-amazon-prime.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-amazon-prime.png) |
-| studio-amc-b69ce32b-e68a-4842-a778-fba7d2d9358c | [studio-amc-b69ce32b-e68a-4842-a778-fba7d2d9358c.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-amc-b69ce32b-e68a-4842-a778-fba7d2d9358c.png) |
-| studio-angel-studios | [studio-angel-studios.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-angel-studios.png) |
-| studio-apple-tv | [studio-apple-tv.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-apple-tv.png) |
-| studio-cbs | [studio-cbs.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-cbs.png) |
-| studio-columbia-movies | [studio-columbia-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-columbia-movies.png) |
-| studio-comedy-central | [studio-comedy-central.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-comedy-central.png) |
-| studio-discovery-channel | [studio-discovery-channel.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-discovery-channel.png) |
-| studio-disney | [studio-disney.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-disney.png) |
-| studio-fox | [studio-fox.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-fox.png) |
-| studio-hbo-max | [studio-hbo-max.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-hbo-max.png) |
-| studio-hgtv | [studio-hgtv.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-hgtv.png) |
-| studio-history-channel | [studio-history-channel.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-history-channel.png) |
-| studio-hulu | [studio-hulu.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-hulu.png) |
-| studio-investigation-discovery | [studio-investigation-discovery.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-investigation-discovery.png) |
-| studio-lifetime | [studio-lifetime.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-lifetime.png) |
-| studio-mgm | [studio-mgm.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-mgm.png) |
-| studio-nbc | [studio-nbc.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-nbc.png) |
-| studio-netflix | [studio-netflix.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-netflix.png) |
-| studio-paramount-movies | [studio-paramount-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-paramount-movies.png) |
-| studio-paramount | [studio-paramount.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-paramount.png) |
-| studio-peacock | [studio-peacock.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-peacock.png) |
-| studio-the-cw | [studio-the-cw.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-the-cw.png) |
-| studio-the-wb | [studio-the-wb.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-the-wb.png) |
-| studio-touchstone-movies | [studio-touchstone-movies.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-touchstone-movies.png) |
-| studio-tv-land | [studio-tv-land.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-tv-land.png) |
-| studio-universal-pictures | [studio-universal-pictures.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-universal-pictures.png) |
-| studio-walt-disney-pictures | [studio-walt-disney-pictures.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-walt-disney-pictures.png) |
-| studio-warner-bros | [studio-warner-bros.png](https://raw.githubusercontent.com/gurgles-1/aiom/main/studio-warner-bros.png) |
+| Folder | What's in it |
+|---|---|
+| `betterer/` | Betterer covers for AIOM catalogs (portrait + landscape) |
+| `cinematic/` | Cinematic-style covers |
+| `minimal/` | Minimal-style covers |
+| `franchises/` | Franchise collections (Star Wars, Marvel, etc.) |
+| `movie_collections/genres/` | Genre collections (horror, sci-fi, comedy...) |
+| `movie_collections/decades/` | Decade collections (1970s–2020s) |
+| `movie_collections/top/` | Top 250, top musicals |
+| `studios/` | Movie studio backdrops |
+| `networks/broadcast/` | Broadcast networks (ABC, CBS, NBC...) |
+| `networks/cable/` | Cable networks (AMC, HGTV, History...) |
+| `networks/streaming/` | Streaming services (Netflix, Hulu, Disney+...) |
+| `streaming/` | Streaming service artwork |
+| `my/` | Personal list artwork |
+
+## Using with AIOMetadata
+
+1. Find the image you want in the folders above
+2. Copy its raw URL: `https://raw.githubusercontent.com/gurgles-1/aiom/main/<folder>/<file>`
+3. In AIOMetadata, open your collection/catalog settings
+4. Paste the URL into the **poster** or **backdrop** field
+5. Save — AIOMetadata will cache and serve the image
+
+### Poster vs backdrop
+
+- **Portrait images** (tall) → use as posters
+- **Landscape images** (wide) → use as backdrops
+- The `betterer/` folder has both orientations for each catalog
+
+## Using with Vio
+
+Same raw URLs work in Vio collection settings. Paste into the artwork field when editing a collection.
+
+## Autobuild
+
+The `src/` folder contains a daily GitHub Actions workflow that syncs TMDB lists to `output/` as JSON catalogs. See `.github/workflows/sync.yml`.
