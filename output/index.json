@@ -1,0 +1,156 @@
+{
+  "catalogs": [
+    {
+      "name": "apple-tv-plus-movies",
+      "count": 138
+    },
+    {
+      "name": "apple-tv-plus-shows",
+      "count": 192
+    },
+    {
+      "name": "bbc-movies",
+      "count": 198
+    },
+    {
+      "name": "bbc-shows",
+      "count": 200
+    },
+    {
+      "name": "itv-movies",
+      "count": 196
+    },
+    {
+      "name": "itv-shows",
+      "count": 189
+    },
+    {
+      "name": "channel-4-movies",
+      "count": 186
+    },
+    {
+      "name": "channel-4-shows",
+      "count": 200
+    },
+    {
+      "name": "hulu-movies",
+      "count": 186
+    },
+    {
+      "name": "hulu-shows",
+      "count": 190
+    },
+    {
+      "name": "discovery-plus-movies",
+      "count": 176
+    },
+    {
+      "name": "discovery-plus-shows",
+      "count": 200
+    },
+    {
+      "name": "netflix-movies",
+      "count": 184
+    },
+    {
+      "name": "netflix-shows",
+      "count": 191
+    },
+    {
+      "name": "peacock-movies",
+      "count": 192
+    },
+    {
+      "name": "peacock-shows",
+      "count": 200
+    },
+    {
+      "name": "prime-video-movies",
+      "count": 187
+    },
+    {
+      "name": "prime-video-shows",
+      "count": 190
+    },
+    {
+      "name": "britbox-shows",
+      "count": 19
+    },
+    {
+      "name": "acorn-tv-movies",
+      "count": 19
+    },
+    {
+      "name": "acorn-tv-shows",
+      "count": 21
+    },
+    {
+      "name": "sky-movies",
+      "count": 200
+    },
+    {
+      "name": "sky-shows",
+      "count": 200
+    },
+    {
+      "name": "starz-movies",
+      "count": 188
+    },
+    {
+      "name": "starz-shows",
+      "count": 74
+    },
+    {
+      "name": "showtime-movies",
+      "count": 172
+    },
+    {
+      "name": "showtime-shows",
+      "count": 190
+    },
+    {
+      "name": "amc-plus-movies",
+      "count": 178
+    },
+    {
+      "name": "amc-plus-shows",
+      "count": 84
+    },
+    {
+      "name": "mgm-plus-movies",
+      "count": 179
+    },
+    {
+      "name": "mgm-plus-shows",
+      "count": 37
+    },
+    {
+      "name": "crave-movies",
+      "count": 185
+    },
+    {
+      "name": "crave-shows",
+      "count": 176
+    },
+    {
+      "name": "stan-movies",
+      "count": 193
+    },
+    {
+      "name": "stan-shows",
+      "count": 47
+    },
+    {
+      "name": "new-zealand",
+      "count": 300
+    },
+    {
+      "name": "pbs-shows",
+      "count": 200
+    },
+    {
+      "name": "pbs-kids",
+      "count": 66
+    }
+  ]
+}
