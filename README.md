@@ -16,6 +16,7 @@ Artwork source: the [Omni template](https://github.com/kanninka/omni-template-bo
 | `streaming/` | Streaming service artwork (48) |
 | `decades/` | Decade collection artwork (34) |
 | `actors/` | Actor/director artwork (48) |
+| `logos/` | Official SVG/PNG logos for streaming services, networks, studios (Wikimedia Commons) |
 
 ## Using with AIOMetadata
 
