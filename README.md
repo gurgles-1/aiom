@@ -2,7 +2,7 @@
 
 Collection artwork for [AIOMetadata](https://github.com/cedya77/aiometadata) catalogs.
 
-Artwork source: the [Omni template](https://github.com/kanninka/omni-template-bot-bid-raiser) galleries
+Artwork sources: the [Omni template](https://github.com/kanninka/omni-template-bot-bid-raiser) galleries
 ([genres](https://postimg.cc/gallery/VsT9R6V),
 [streaming](https://postimg.cc/gallery/gXh7xgR),
 [decades](https://postimg.cc/gallery/v5hCxKd),
@@ -17,6 +17,7 @@ Artwork source: the [Omni template](https://github.com/kanninka/omni-template-bo
 | `decades/` | Decade collection artwork (34) |
 | `actors/` | Actor/director artwork (48) |
 | `logos/` | Official SVG/PNG logos for streaming services, networks, studios (Wikimedia Commons) |
+| `xperience/` | Xperience `default` cover set (141 files, 10 categories: actors, streaming_services, genres, directors, studios, world_cinema, themed_curated, for_you_trending, anime, moods_themes) |
 
 ## Using with AIOMetadata
 
